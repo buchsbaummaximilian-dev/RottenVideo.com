@@ -1,0 +1,26 @@
+h1{
+    color: rgb(255, 0, 0);
+    font-size: 3em;
+    text-align: center;
+    
+}
+h2{
+     color: blue;
+    font-size: 2em;
+    text-align: center;
+
+}
+#erstertext{
+    color: rgb(255, 0, 0);
+    font-size: 22px;
+    margin-left: 60px;
+}
+img{
+    margin-left: 60px ;
+}
+a{
+    margin-left: 60px;
+}
+#zweitertext{
+    margin-left: 60px;
+}
